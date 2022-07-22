@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0c1f465ec8851f74ab7b7a5e0a1a923f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - plafond: {fileID: 6585638549606002857, guid: 4e47ac31438b3554eac7ca28139204c8, type: 3}
+  - trappe: {fileID: 2828942262739005383, guid: 37a08bc93f8671941a7639e81f0fe49b, type: 3}
+  - echelle: {fileID: 2828942262739005383, guid: 37a08bc93f8671941a7639e81f0fe49b, type: 3}
+  - wall: {fileID: 2673609832097525950, guid: e6f57eb784260654ea6d36736de0321e, type: 3}
+  - pilipilonne: {fileID: 937869644680986133, guid: 1371bff49456e704ca5089bd802f7bb9, type: 3}
+  - secret: {fileID: 2828942262739005383, guid: 37a08bc93f8671941a7639e81f0fe49b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
